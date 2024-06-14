@@ -5,3 +5,5 @@
 # Enviando tudo por comando
 
 # Comando git pull
+
+# Comando git fetch
